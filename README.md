@@ -4,7 +4,7 @@ Mini Projects for Learning Design
 
 Following this 365 day creativiy blog from [Yes I'm a Designer](http://www.yesimadesigner.com/365-days-of-creativity-daily-inspiration/) to help me learn design and the tools.
 
-The [Patreon URL](https://www.patreon.com/yesimadesigner) page is organized better.
+His [Patreon page](https://www.patreon.com/yesimadesigner) is better organized.
 
 Will also use other resources to help me learn.
 
