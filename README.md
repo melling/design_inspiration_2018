@@ -11,10 +11,9 @@ Will use other resources to help me learn.
 
 ## Day 2: Negative Space
 
-- [Commentary Video](https://youtu.be/EEfWjheHxSA)
+- [1 Minute Video](https://youtu.be/EEfWjheHxSA)
 	- The space around and between the subject.
 	- Use emptiness to emphasize something.
-- [Video 2](https://youtu.be/RpShXq4eY3E)
 
 ### Misc
  - https://en.m.wikipedia.org/wiki/Negative_space
@@ -31,7 +30,7 @@ Will use other resources to help me learn.
 
 ## Day 1: Typography
 
-[Video](https://youtu.be/H15pczyif_w)
+[Daily Free Video](https://youtu.be/H15pczyif_w)
 
 [Illustrator CC 2018 MasterClass: 62. Create Outlines from Text](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/t/lecture/6973118?start=0)
 
