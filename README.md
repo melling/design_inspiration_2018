@@ -2,9 +2,9 @@
 
 Mini Projects for Learning Design
 
-Following this 365 day creativiy blog from [Yes I'm a Designer](http://www.yesimadesigner.com/365-days-of-creativity-daily-inspiration/)
+Following this 365 day creativiy blog from [Yes I'm a Designer](http://www.yesimadesigner.com/365-days-of-creativity-daily-inspiration/) to help me learn design and the tools.
 
-Will use other resources to help me learn.
+Will also use other resources to help me learn.
 
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
