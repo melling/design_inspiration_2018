@@ -25,6 +25,9 @@ Create dual-tone effect on photographs.
 
 - [Pixel Bay Coffee Image](https://pixabay.com/en/coffee-beans-coffee-bean-drink-1117933/)
 
+### Original
+![Pic](003_gradient_map/coffee.png)
+
 ### Black/White Example
 ![Pic](003_gradient_map/coffee_gradient_map_bw.png)
 
