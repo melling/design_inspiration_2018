@@ -26,10 +26,10 @@ Create dual-tone effect on photographs.
 - [Pixel Bay Coffee Image](https://pixabay.com/en/coffee-beans-coffee-bean-drink-1117933/)
 
 ### Black/White Example
-![Pic](coffee_gradient_map_bw.png)
+![Pic](003_gradient_map/coffee_gradient_map_bw.png)
 
 ### Purple to Cyan Example
-![Pic](coffee_gradient_map_color.png)
+![Pic](003_gradient_map/coffee_gradient_map_color.png)
 - Double-click on Adjustment layer to change Layer Blending options to get nice effect.
 - To remove rough edge, use Alt/Option to split to create a range.
 - Looks better with a person's face?
