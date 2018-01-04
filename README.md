@@ -31,6 +31,11 @@ Create dual-tone effect on photographs.
 ### Black/White Example
 ![Pic](003_gradient_map/coffee_gradient_map_bw.png)
 
+1. ![Pic](003_gradient_map/lesson/01_click_lesson.png)
+2.  ![Pic](003_gradient_map/lesson/02_create_map_lesson.png)
+3. ![Pic](003_gradient_map/lesson/03_properties_panel_lesson.png)
+4. ![Pic](003_gradient_map/lesson/04_click_black_white_lesson.png)
+
 ### Purple to Cyan Example
 ![Pic](003_gradient_map/coffee_gradient_map_color.png)
 - Double-click on Adjustment layer to change Layer Blending options to get nice effect.
