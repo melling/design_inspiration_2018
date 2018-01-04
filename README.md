@@ -13,6 +13,27 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
 
+## Day 4: Photoshop Variable Fonts
+
+- [1 Minute Video](https://youtu.be/1GN7JQ6xdFE)
+
+## Day 3: Photoshop Gradient Map
+
+- [1 Minute Video](https://youtu.be/ewKQ3kTPXm0)
+
+Create dual-tone effect on photographs.
+
+- [Pixel Bay Coffee Image](https://pixabay.com/en/coffee-beans-coffee-bean-drink-1117933/)
+
+### Black/White Example
+![Pic](coffee_gradient_map_bw.png)
+
+### Purple to Cyan Example
+![Pic](coffee_gradient_map_color.png)
+- Double-click on Adjustment layer to change Layer Blending options to get nice effect.
+- To remove rough edge, use Alt/Option to split to create a range.
+- Looks better with a person's face?
+
 ## Day 2: Negative Space
 
 - [1 Minute Video](https://youtu.be/EEfWjheHxSA)
