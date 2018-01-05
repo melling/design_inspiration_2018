@@ -17,12 +17,10 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 - [1 Minute Video](https://youtu.be/1GN7JQ6xdFE)
 
-## Font
-Acumin Variable Concept
-Wide UltraBlack
-
-From the Properties panel change: Weight, Width, and Slant.
-
+## Notes
+- Font: Acumin Variable Concept
+ - Wide UltraBlack
+- From the Properties panel change: Weight, Width, and Slant.
 - Added a Drop Shadow effect on Every.
 - Added a Stroke effect on Every.
 
