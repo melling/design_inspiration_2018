@@ -17,6 +17,20 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 - [1 Minute Video](https://youtu.be/1GN7JQ6xdFE)
 
+## Font
+Acumin Variable Concept
+Wide UltraBlack
+
+From the Properties panel change: Weight, Width, and Slant.
+
+- Added a Drop Shadow effect on Every.
+- Added a Stroke effect on Every.
+
+Used colors from [Dribbble](https://dribbble.com/shots/4066245-Blueberries)
+
+## Example
+![Pic](004_variable_fonts/practice_every_day.png)
+
 ## Day 3: Photoshop Gradient Map
 
 - [1 Minute Video](https://youtu.be/ewKQ3kTPXm0)
