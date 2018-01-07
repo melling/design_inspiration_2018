@@ -37,10 +37,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Resources
 - [Noun Project Cat Icons](https://thenounproject.com/search/?q=cat)
-- [Cat Icon 1](https://thenounproject.com/search/?q=cat&i=196641)
-- [Cat Icon 2](https://thenounproject.com/search/?q=cat&i=755177)
-- [Cat Icon 3](https://thenounproject.com/search/?q=cat&i=729211)
-- [Cat Icon 4](https://thenounproject.com/search/?q=cat&i=975206)
+- [Cat Icon 1](https://thenounproject.com/search/?q=cat&i=196641) | [Cat Icon 2](https://thenounproject.com/search/?q=cat&i=755177) | [Cat Icon 3](https://thenounproject.com/search/?q=cat&i=729211) | [Cat Icon 4](https://thenounproject.com/search/?q=cat&i=975206)
 - [Dribbble Colors](https://dribbble.com/shots/3738996-Crazy-About-Cats)
 
 ### Example
