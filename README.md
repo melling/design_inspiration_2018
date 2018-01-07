@@ -13,6 +13,24 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
 
+## Day 5: Illustrator Patterns
+
+- [1 Minute Video](https://youtu.be/achtdTKhINI)
+
+## Resources
+- [Noun Project Cat Icons](https://thenounproject.com/search/?q=cat)
+- https://thenounproject.com/search/?q=cat&i=196641
+- https://thenounproject.com/search/?q=cat&i=755177
+- https://thenounproject.com/search/?q=cat&i=729211
+- https://thenounproject.com/search/?q=cat&i=975206
+
+## Notes
+- Object -> Pattern -> Make
+- Use pattern as Fill Color
+
+## Example
+![Pic](005_illustrator_patterns/)
+
 ## Day 4: Photoshop Variable Fonts
 
 - [1 Minute Video](https://youtu.be/1GN7JQ6xdFE)
@@ -24,7 +42,8 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 - Added a Drop Shadow effect on Every.
 - Added a Stroke effect on Every.
 
-Used colors from [Dribbble](https://dribbble.com/shots/4066245-Blueberries)
+## Resources
+- Colors from [Dribbble](https://dribbble.com/shots/4066245-Blueberries)
 
 ## Example
 ![Pic](004_variable_fonts/practice_every_day.png)
