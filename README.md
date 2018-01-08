@@ -20,9 +20,10 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ### Notes
 
 ### Resources
+- [Dribbble Colors](https://dribbble.com/shots/4056436-2018-Dog-Year)
 
 ### Example
-![Pic](005_illustrator_patterns/)
+![Pic](006_rule_of_thirds/1x/rule.png)
 
 ## Day 5: Illustrator Patterns
 
@@ -31,7 +32,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ### Notes
 - Object -> Pattern -> Make
   - Pattern is placed in Swatches panel
-- Use pattern as Fill Color
+- Use pattern as a Fill Color
 - Double-click on swatch to rename, etc
 - Once the swatch is created, fill a rectangle with the swatch pattern.
 
