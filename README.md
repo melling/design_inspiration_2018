@@ -13,6 +13,21 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
 
+## Day 7: Line Art
+
+- [1 Minute Video](https://youtu.be/58iN5l1p0EQ)
+
+### Notes
+- Keep stroke size the same
+- Helps to sketch with pencil/paper first
+
+### Resources
+- [Dribbble Colors]()
+
+### Example
+![Pic](007_line_art/1x/.png)
+
+
 ## Day 6: Rule of Thirds
 
 - [1 Minute Video](https://youtu.be/iWqQpR1obW0)
