@@ -20,12 +20,13 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ### Notes
 - Keep stroke size the same
 - Helps to sketch with pencil/paper first
+- Rotate (R) then duplicate (Cmd-d) to get sun rays
+- Shift-E erase on sun rays
 
 ### Resources
-- [Dribbble Colors]()
 
 ### Example
-![Pic](007_line_art/1x/.png)
+![Pic](007_line_art/1x/line_art.png)
 
 
 ## Day 6: Rule of Thirds
