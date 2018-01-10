@@ -12,8 +12,12 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
+---
 
-## Design Challenge 2018: Paint Over Photos
+## Day 10 - Design Challenge 2018:
+---
+
+## Day 9 - Design Challenge 2018: Paint Over Photos
 
 - [1 Minute Video](https://youtu.be/QFlUrmMvrJ4)
 
@@ -23,7 +27,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Notes
 
-## Design Challenge 2018: Illustrator Gradients
+## Day 8 - Design Challenge 2018: Illustrator Gradients
 
 - [1 Minute Video](https://youtu.be/1Mo3naxf_54)
 
@@ -42,7 +46,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ---
 
-## Design Challenge 2018: Line Art
+## Day 7 - Design Challenge 2018: Line Art
 
 - [1 Minute Video](https://youtu.be/58iN5l1p0EQ)
 
@@ -59,7 +63,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ---
 
-## Design Challenge 2018: Rule of Thirds
+## Day 6 - Design Challenge 2018: Rule of Thirds
 
 - [1 Minute Video](https://youtu.be/iWqQpR1obW0)
 
@@ -73,7 +77,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ---
 
-## Design Challenge 2018: Illustrator Patterns
+## Day 5 - Design Challenge 2018: Illustrator Patterns
 
 - [1 Minute Video](https://youtu.be/achtdTKhINI)
 
@@ -94,7 +98,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ---
 
-## Design Challenge 2018: Photoshop Variable Fonts
+## Day 4 - Design Challenge 2018: Photoshop Variable Fonts
 
 - [1 Minute Video](https://youtu.be/1GN7JQ6xdFE)
 
@@ -113,7 +117,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ---
 
-## Design Challenge 2018: Photoshop Gradient Map
+## Day 3 - Design Challenge 2018: Photoshop Gradient Map
 
 - [1 Minute Video](https://youtu.be/ewKQ3kTPXm0)
 
@@ -143,7 +147,7 @@ Create dual-tone effect on photographs.
 
 ---
 
-## Design Challenge 2018: Negative Space
+## Day 2 - Design Challenge 2018: Negative Space
 
 - [1 Minute Video](https://youtu.be/EEfWjheHxSA)
 	- The space around and between the subject.
@@ -164,7 +168,7 @@ Create dual-tone effect on photographs.
 
 ---
 
-## Design Challenge 2018: Typography
+## Day 1 - Design Challenge 2018: Typography
 
 [Daily Free Video](https://youtu.be/H15pczyif_w)
 
