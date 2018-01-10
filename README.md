@@ -13,7 +13,36 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
 
-## Day 7: Line Art
+## Design Challenge 2018: Paint Over Photos
+
+- [1 Minute Video](https://youtu.be/QFlUrmMvrJ4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QFlUrmMvrJ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Resources
+
+### Notes
+
+## Design Challenge 2018: Illustrator Gradients
+
+- [1 Minute Video](https://youtu.be/1Mo3naxf_54)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Mo3naxf_54" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Notes
+- Linear gradients
+- Radial gradients
+
+### Resources
+
+[Dribbble Gradients]()
+
+### Example
+![Pic](008_illustrator_gradients/1x/.png)
+
+---
+
+## Design Challenge 2018: Line Art
 
 - [1 Minute Video](https://youtu.be/58iN5l1p0EQ)
 
@@ -28,8 +57,9 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ### Example
 ![Pic](007_line_art/1x/line_art.png)
 
+---
 
-## Day 6: Rule of Thirds
+## Design Challenge 2018: Rule of Thirds
 
 - [1 Minute Video](https://youtu.be/iWqQpR1obW0)
 
@@ -41,7 +71,9 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ### Example
 ![Pic](006_rule_of_thirds/1x/rule.png)
 
-## Day 5: Illustrator Patterns
+---
+
+## Design Challenge 2018: Illustrator Patterns
 
 - [1 Minute Video](https://youtu.be/achtdTKhINI)
 
@@ -60,7 +92,9 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ### Example
 ![Pic](005_illustrator_patterns/1x/cats.png)
 
-## Day 4: Photoshop Variable Fonts
+---
+
+## Design Challenge 2018: Photoshop Variable Fonts
 
 - [1 Minute Video](https://youtu.be/1GN7JQ6xdFE)
 
@@ -77,7 +111,9 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ### Example
 ![Pic](004_variable_fonts/practice_every_day.png)
 
-## Day 3: Photoshop Gradient Map
+---
+
+## Design Challenge 2018: Photoshop Gradient Map
 
 - [1 Minute Video](https://youtu.be/ewKQ3kTPXm0)
 
@@ -105,7 +141,9 @@ Create dual-tone effect on photographs.
 - To remove rough edge, use Alt/Option to split to create a range.
 - Looks better with a person's face?
 
-## Day 2: Negative Space
+---
+
+## Design Challenge 2018: Negative Space
 
 - [1 Minute Video](https://youtu.be/EEfWjheHxSA)
 	- The space around and between the subject.
@@ -124,7 +162,9 @@ Create dual-tone effect on photographs.
 #### logo
 ![Logo](002_negative_space/neg_space_h4labs.png)
 
-## Day 1: Typography
+---
+
+## Design Challenge 2018: Typography
 
 [Daily Free Video](https://youtu.be/H15pczyif_w)
 
