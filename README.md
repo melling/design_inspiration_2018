@@ -14,7 +14,21 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
 ---
 
-## Day 10 - Design Challenge 2018:
+## Day 10 - Design Challenge 2018: Flower Wreath in Illustrator
+
+- [1 Minute Video](https://youtu.be/VEczKUXcmxU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VEczKUXcmxU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Notes
+
+### Resources
+
+[Dribbble Gradients]()
+
+### Example
+![Pic](010_illustrator_gradients/1x/.png)
+
 ---
 
 ## Day 9 - Design Challenge 2018: Paint Over Photos
@@ -23,9 +37,16 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QFlUrmMvrJ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
+
 ### Resources
 
-### Notes
+[Dribbble Gradients]()
+
+### Example
+![Pic](009_illustrator_gradients/1x/.png)
+
+---
 
 ## Day 8 - Design Challenge 2018: Illustrator Gradients
 
