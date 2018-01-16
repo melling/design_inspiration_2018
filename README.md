@@ -13,7 +13,106 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
 ---
+## Day 16 - Design Challenge 2018: Procreate Drawing Tutorial
 
+- [1 Minute Video](https://youtu.be/S-2CRhq_yTE)
+
+
+### Notes
+
+
+### Resources
+
+[Dribbble Gradients]()
+
+### Example
+![Pic](016_procreate_drawing_tutorial/1x/.png)
+
+---
+## Day 15 - Design Challenge 2018: Illustrator Geometric Illustration
+
+- [1 Minute Video](https://youtu.be/NZM4Isx-dtI)
+
+
+### Notes
+
+
+### Resources
+
+[Dribbble Gradients]()
+
+### Example
+![Pic](015_illustrator_geometric_illustration/1x/.png)
+
+---
+## Day 14 - Design Challenge 2018: InDesign Image in Multiple Frames
+
+- [1 Minute Video](https://youtu.be/ldufM3WnS7c)
+
+
+### Notes
+
+
+### Resources
+
+[Dribbble Gradients]()
+
+### Example
+![Pic](014_indesign_multiple_frames/1x/.png)
+
+---
+
+## Day 13 - Design Challenge 2018: Photoshop Seamless Pattern
+
+- [1 Minute Video](https://youtu.be/CPaip5Ob3Ns)
+
+
+### Notes
+
+
+### Resources
+
+[Dribbble Gradients]()
+
+### Example
+![Pic](013_photoshop_seamless_pattern/1x/.png)
+
+---
+
+## Day 12 - Design Challenge 2018: InDesign Text Wrap
+
+- [1 Minute Video](https://youtu.be/0rjIMDHiqR4)
+
+
+### Notes
+
+
+### Resources
+
+[Dribbble Gradients]()
+
+### Example
+![Pic](012_indesign_text_wrap/1x/.png)
+
+---
+
+## Day 11 - Design Challenge 2018: Photoshop Neon Lights
+
+- [1 Minute Video](https://youtu.be/LDEW2xcslaw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LDEW2xcslaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Notes
+
+
+### Resources
+
+[Dribbble Gradients]()
+
+### Example
+![Pic](011_photoshop_neon_lights/1x/.png)
+
+---
 ## Day 10 - Design Challenge 2018: Flower Wreath in Illustrator
 
 - [1 Minute Video](https://youtu.be/VEczKUXcmxU)
@@ -21,13 +120,15 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VEczKUXcmxU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Notes
+- R - Rotate Tool
+- O - Reflect Tool (Alt/Option to copy while reflecting)
 
 ### Resources
 
 [Dribbble Gradients]()
 
 ### Example
-![Pic](010_illustrator_gradients/1x/.png)
+![Pic](010_illustrator_flower_wreath/1x/.png)
 
 ---
 
@@ -44,7 +145,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 [Dribbble Gradients]()
 
 ### Example
-![Pic](009_illustrator_gradients/1x/.png)
+![Pic](009_paint_over_photos/1x/.png)
 
 ---
 
