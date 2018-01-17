@@ -134,26 +134,23 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ## Day 9 - Design Challenge 2018: Paint Over Photos
 
-- [1 Minute Video](https://youtu.be/QFlUrmMvrJ4)
+- [1 Minute Video](https://youtu.be/bsBBIEVR5P8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QFlUrmMvrJ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bsBBIEVR5P8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Resources
+https://pixabay.com/en/world-globe-earth-planet-blue-1303628/
 
-[Dribbble Gradients]()
 
 ### Example
-![Pic](009_paint_over_photos/1x/.png)
+![Pic](009_paint_over_photos/africa_trail.png)
 
 ---
 
 ## Day 8 - Design Challenge 2018: Illustrator Gradients
 
-- [1 Minute Video](https://youtu.be/1Mo3naxf_54)
+- [1 Minute Video](https://youtu.be/fx9CMwTiGi4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Mo3naxf_54" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Notes
 - Linear gradients
