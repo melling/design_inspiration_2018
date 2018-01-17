@@ -12,6 +12,26 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
+
+
+## Day 17 - Design Challenge 2018: Halftone Effect in Photoshop
+
+- [1 Minute Video](https://youtu.be/qQD7u1oolTI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQD7u1oolTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Notes
+
+
+### Resources
+
+[Dribbble Gradients]()
+
+### Example
+![Pic](016_procreate_drawing_tutorial/1x/.png)
+
+---
+
 ---
 ## Day 16 - Design Challenge 2018: Procreate Drawing Tutorial
 
@@ -83,16 +103,20 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 - [1 Minute Video](https://youtu.be/0rjIMDHiqR4)
 
+This is my first time using InDesign so I simply learned how to make text wrap around an image.
 
 ### Notes
-
-
+- Select the shape. (not the text)
+- Window -> Text Wrap (Cmd-Opt-W)
+- Select third button (Wrap around object shape)
+- Tutorial https://www.youtube.com/watch?v=RCeULeg3dzo
+- File -> Place (place image)
 ### Resources
+- https://pixabay.com/en/clouds-sky-cloud-dark-clouds-1473311/
 
-[Dribbble Gradients]()
 
 ### Example
-![Pic](012_indesign_text_wrap/1x/.png)
+![Pic](012_indesign_text_wrap/clouds_indesign.png)
 
 ---
 
@@ -100,7 +124,6 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 - [1 Minute Video](https://youtu.be/LDEW2xcslaw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LDEW2xcslaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Notes
 - He used premium fonts
