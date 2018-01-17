@@ -103,21 +103,25 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDEW2xcslaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Notes
+- He used premium fonts
+- Baseline shift (Opt up/down arrow) and kerning (Opt left/right arrow) to get 'it' to slide together
+- Bevel/Emboss
+- Use Screen mode
+- Alt/Option drag from fx to copy style
+- Use Timeline to add keyframe for styles
 
 
 ### Resources
 
-[Dribbble Gradients]()
 
 ### Example
-![Pic](011_photoshop_neon_lights/1x/.png)
+![Pic](011_photoshop_neon_lights/neon_lights.png)
 
 ---
 ## Day 10 - Design Challenge 2018: Flower Wreath in Illustrator
 
 - [1 Minute Video](https://youtu.be/VEczKUXcmxU)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VEczKUXcmxU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Notes
 - R - Rotate Tool
@@ -125,18 +129,15 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Resources
 
-[Dribbble Gradients]()
 
 ### Example
-![Pic](010_illustrator_flower_wreath/1x/.png)
+![Pic](010_illustrator_flower_wreath/1x/wreath.png)
 
 ---
 
 ## Day 9 - Design Challenge 2018: Paint Over Photos
 
 - [1 Minute Video](https://youtu.be/bsBBIEVR5P8)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bsBBIEVR5P8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Resources
 https://pixabay.com/en/world-globe-earth-planet-blue-1303628/
