@@ -161,10 +161,14 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Resources
 
-[Dribbble Gradients]()
 
 ### Example
-![Pic](008_illustrator_gradients/1x/.png)
+![Pic](008_illustrator_gradients/1x/stroke_gradient.png)
+
+### Example
+![Pic](008_illustrator_gradients/1x/dual_gradient.png)
+
+I didn't choose good colors for gradient.  Wanted to do the bubbles.
 
 ---
 
