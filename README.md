@@ -44,7 +44,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 
 ### Example
-![Pic](017_photoshop_halftone/1x/leopard_halftone.png)
+![Pic](017_photoshop_halftone/leopard_halftone.png)
 
 ---
 
