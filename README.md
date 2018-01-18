@@ -28,7 +28,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 [Dribbble Gradients]()
 
 ### Example
-![Pic](016_procreate_drawing_tutorial/1x/.png)
+![Pic](017_/1x/.png)
 
 ---
 
@@ -86,11 +86,14 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 - [1 Minute Video](https://youtu.be/CPaip5Ob3Ns)
 
-
 ### Notes
-
+- Filter -> Other -> Offset
+- Clone Stamp tool (S) - Sample rough edges
+- Edit -> Define Pattern
+- Apply Pattern as Layer Style - Pattern Overlay
 
 ### Resources
+- http://blogs.adobe.com/jkost/2015/01/how-to-create-a-seamless-pattern-tile-in-photoshop.html
 
 [Dribbble Gradients]()
 
@@ -103,6 +106,8 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 - [1 Minute Video](https://youtu.be/0rjIMDHiqR4)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rjIMDHiqR4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 This is my first time using InDesign so I simply learned how to make text wrap around an image.
 
 ### Notes
@@ -111,6 +116,7 @@ This is my first time using InDesign so I simply learned how to make text wrap a
 - Select third button (Wrap around object shape)
 - Tutorial https://www.youtube.com/watch?v=RCeULeg3dzo
 - File -> Place (place image)
+
 ### Resources
 - https://pixabay.com/en/clouds-sky-cloud-dark-clouds-1473311/
 
