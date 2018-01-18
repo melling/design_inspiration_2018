@@ -33,8 +33,6 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 - [1 Minute Video](https://youtu.be/qQD7u1oolTI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qQD7u1oolTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ### Notes
 - Turn image into a Smart Object
 - Filter -> Pixelate -> Color Halftone
