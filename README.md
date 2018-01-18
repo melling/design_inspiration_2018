@@ -13,12 +13,11 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
 
+## Day 18 - Design Challenge 2018: Vector Illustration Tutorial
 
-## Day 17 - Design Challenge 2018: Halftone Effect in Photoshop
+- [1 Minute Video](https://youtu.be/TJyvT45aGcs)
 
-- [1 Minute Video](https://youtu.be/qQD7u1oolTI)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qQD7u1oolTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJyvT45aGcs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Notes
 
@@ -28,7 +27,26 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 [Dribbble Gradients]()
 
 ### Example
-![Pic](017_/1x/.png)
+![Pic](018_/1x/.png)
+
+## Day 17 - Design Challenge 2018: Halftone Effect in Photoshop
+
+- [1 Minute Video](https://youtu.be/qQD7u1oolTI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQD7u1oolTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Notes
+- Turn image into a Smart Object
+- Filter -> Pixelate -> Color Halftone
+- Adjust Halftone radius. Bigger equals bigger dots
+- Play with Color Channels: -360 to 360
+
+### Resources
+- https://pixabay.com/en/leopard-leopard-spots-animal-wild-592187/
+
+
+### Example
+![Pic](017_photoshop_halftone/1x/leopard_halftone.png)
 
 ---
 
@@ -43,7 +61,6 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Resources
 
-[Dribbble Gradients]()
 
 ### Example
 ![Pic](016_procreate_drawing_tutorial/1x/.png)
@@ -63,7 +80,6 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Resources
 
-[Dribbble Gradients]()
 
 ### Example
 ![Pic](015_illustrator_geometric_illustration/1x/simple_cat.png)
