@@ -55,14 +55,18 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 
 ### Notes
-
+- Can't draw so I drew a simple cat
+- View -> Show Grid (⌘')
+- View -> Snap to Grid (⌘⇧')
+- Used Polygon Tool
+- Reflect Tool (O)
 
 ### Resources
 
 [Dribbble Gradients]()
 
 ### Example
-![Pic](015_illustrator_geometric_illustration/1x/.png)
+![Pic](015_illustrator_geometric_illustration/1x/simple_cat.png)
 
 ---
 ## Day 14 - Design Challenge 2018: InDesign Image in Multiple Frames
@@ -74,7 +78,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 - Use Frames (drop shadow, white border, size 5, no fill)
 - Rotate a few
 - Cut image
-- Edit -> Place Into # Each frame (Cmd-Opt-V)
+- Edit -> Place Into # Each frame (⌘-⌥-V)
 
 ### Resources
 - https://pixabay.com/en/leopard-leopard-spots-animal-wild-592187/
@@ -115,7 +119,7 @@ This is my first time using InDesign so I simply learned how to make text wrap a
 
 ### Notes
 - Select the shape. (not the text)
-- Window -> Text Wrap (Cmd-Opt-W)
+- Window -> Text Wrap (⌘-⌥-W)
 - Select third button (Wrap around object shape)
 - Tutorial https://www.youtube.com/watch?v=RCeULeg3dzo
 - File -> Place (place image)
