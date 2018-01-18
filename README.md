@@ -71,14 +71,17 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 
 ### Notes
-
+- Use Frames (drop shadow, white border, size 5, no fill)
+- Rotate a few
+- Cut image
+- Edit -> Place Into # Each frame (Cmd-Opt-V)
 
 ### Resources
+- https://pixabay.com/en/leopard-leopard-spots-animal-wild-592187/
 
-[Dribbble Gradients]()
 
 ### Example
-![Pic](014_indesign_multiple_frames/1x/.png)
+![Pic](014_indesign_multiple_frames/leopard.png)
 
 ---
 
