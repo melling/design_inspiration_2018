@@ -13,6 +13,27 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
 
+
+## Day 19 - Design Challenge 2018: Photoshop Wave Effect
+
+- [1 Minute Video](https://youtu.be/QJ75Db-p5gQ)
+
+### Notes
+- Brush Tool - B
+- Hold shift to draw straight lines, while clicking and dragging
+- Place each brush stroke on new layer (Cmd-Shift-N)
+- Merge layers when done
+- Convert to Smart Object
+- Filter -> Liquify
+
+### Resources
+
+
+### Example
+![Pic](019_photoshop_wave_effect/liquify.png)
+
+---
+
 ## Day 18 - Design Challenge 2018: Vector Illustration Tutorial
 
 - [1 Minute Video](https://youtu.be/TJyvT45aGcs)
@@ -28,6 +49,8 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Example
 ![Pic](018_/1x/.png)
+
+---
 
 ## Day 17 - Design Challenge 2018: Halftone Effect in Photoshop
 
@@ -46,9 +69,9 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ### Example
 ![Pic](017_photoshop_halftone/leopard_halftone.png)
 
----
 
 ---
+
 ## Day 16 - Design Challenge 2018: Procreate Drawing Tutorial
 
 - [1 Minute Video](https://youtu.be/S-2CRhq_yTE)
@@ -83,6 +106,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 ![Pic](015_illustrator_geometric_illustration/1x/simple_cat.png)
 
 ---
+
 ## Day 14 - Design Challenge 2018: InDesign Image in Multiple Frames
 
 - [1 Minute Video](https://youtu.be/ldufM3WnS7c)
