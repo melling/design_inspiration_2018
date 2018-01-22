@@ -19,7 +19,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 - [1 Minute Video](https://youtu.be/eYpkFbX02FQ)
 
 ### Notes
-- +/- to switch modes, once selected
+- Shift +/- to switch blend modes
 - Screen or Lighten Blend Mode
 - Multiply or Darken Blend Mode
 - Overlay or Contrast Blend Mode
