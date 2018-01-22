@@ -14,6 +14,52 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
 
 
+## Day 21 - Design Challenge 2018: Pairing Typefaces
+
+- [1 Minute Video](https://youtu.be/DxbjcKr5wnQ)
+
+### Notes
+- Contrast - Don't use fonts that look similar
+- Scale - font size differences
+- Limit colors
+- Try mixing smallcap/CAP
+
+### Resources
+- http://www.fontsquirrel.com
+- http://www.1001freefonts.com
+- http://www.creativebloq.com/typography/20-perfect-type-pairings-3132120
+- https://www.pinterest.com/explore/font-pairings/?lp=true
+
+#### Font Pairs
+- [Oswald](https://www.1001freefonts.com/oswald.font)/[Open Sans](https://www.1001freefonts.com/open-sans.font)
+- [Anton](https://www.1001freefonts.com/anton.font)/[Damion](https://www.1001freefonts.com/damion.font)
+- [Permanent Marker](https://www.1001freefonts.com/permanent-marker.font)/[Metrophobic](https://www.1001freefonts.com/metrophobic.font)
+- [Bevan](https://www.1001freefonts.com/bevan.font)/[Oxygen](https://www.1001freefonts.com/oxygen.font)
+- [Londrina Solid](https://www.1001freefonts.com/londrina-solid.font)/[Fresca](https://www.1001freefonts.com/fresca.font)
+- [Lilita One](https://www.1001freefonts.com/lilita-one.font)/[Arvo](https://www.1001freefonts.com/arvo.font)
+- [Pacifico](https://www.1001freefonts.com/pacifico.font)/[Quicksand](https://www.1001freefonts.com/quicksand.font)
+- [Alfa Slab One](https://www.1001freefonts.com/alfa-slab-one.font)/[Bitter](https://www.1001freefonts.com/bitter.font)
+- [Walter Turncoat](https://www.1001freefonts.com/walter-turncoat.font)/[Ubuntu](https://www.1001freefonts.com/ubuntu.font)
+- [Fredoka One](https://www.1001freefonts.com/fredoka-one.font)/[Raleway](https://www.1001freefonts.com/raleway.font)
+- [Audiowide](https://www.1001freefonts.com/audiowide.font)/[Nixie One](https://www.1001freefonts.com/nixie-one.font)
+- [SanCreek](https://www.1001freefonts.com/sancreek.font)/[Goudy Bookletter 1911](https://www.1001freefonts.com/goudy-bookletter-1911.font)
+
+### Example
+![Pic](019_photoshop_wave_effect/liquify.png)
+
+## Day 20 - Design Challenge 2018: 
+
+- [1 Minute Video]()
+
+### Notes
+
+### Resources
+
+
+### Example
+![Pic](019_photoshop_wave_effect/liquify.png)
+
+
 ## Day 19 - Design Challenge 2018: Photoshop Wave Effect
 
 - [1 Minute Video](https://youtu.be/QJ75Db-p5gQ)
