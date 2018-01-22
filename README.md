@@ -12,7 +12,24 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ## Other Resources
 - [Udemy: Illustrator CC 2018 MasterClass](https://www.udemy.com/illustrator-cc-masterclass/learn/v4/overview)
+- [Markdown Converter](https://www.browserling.com/tools/markdown-to-html)
 
+## Day 22 - Design Challenge 2018: Blend Modes in Photoshop
+
+- [1 Minute Video](https://youtu.be/eYpkFbX02FQ)
+
+### Notes
+- +/- to switch modes, once selected
+- Screen
+- Multiply
+- Overlay
+
+### Resources
+
+### Example
+![Pic](022_photoshop_blend_modes/font_pairings.png)
+
+---
 
 ## Day 21 - Design Challenge 2018: Pairing Typefaces
 
