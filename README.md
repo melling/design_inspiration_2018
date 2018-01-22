@@ -20,14 +20,31 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Notes
 - +/- to switch modes, once selected
-- Screen
-- Multiply
-- Overlay
+- Screen or Lighten Blend Mode
+- Multiply or Darken Blend Mode
+- Overlay or Contrast Blend Mode
+- Hue Blend Mode
 
 ### Resources
+- https://pixabay.com/en/milky-way-starry-sky-night-sky-star-2695569/
+- https://pixabay.com/en/fashion-woman-portrait-model-3080644/
 
 ### Example
-![Pic](022_photoshop_blend_modes/font_pairings.png)
+![Pic](022_photoshop_blend_modes/model_with_stars_lighten.png)
+
+- Change Blend Mode to Screen
+
+### Example
+![Pic](022_photoshop_blend_modes/model_with_stars_darken.png)
+
+- Change Blend Mode to Darken
+
+### Example
+
+![Pic](022_photoshop_blend_modes/hue.png)
+
+- Add solid color layer over image
+- Change Blend Mode to Hue
 
 ---
 
