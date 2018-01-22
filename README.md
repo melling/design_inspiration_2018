@@ -20,9 +20,9 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Notes
 - Shift +/- to switch blend modes
-- Screen or Lighten Blend Mode
-- Multiply or Darken Blend Mode
-- Overlay or Contrast Blend Mode
+- Screen or other Lighten Blend Mode
+- Multiply or other Darken Blend Mode
+- Overlay or other Contrast Blend Mode
 - Hue Blend Mode
 
 ### Resources
