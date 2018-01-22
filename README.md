@@ -41,7 +41,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 ### Example
 
-![Pic](022_photoshop_blend_modes/hue.png)
+![Pic](022_photoshop_blend_modes/model_with_hue.png)
 
 - Add solid color layer over image
 - Change Blend Mode to Hue
