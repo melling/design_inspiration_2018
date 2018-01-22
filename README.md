@@ -45,7 +45,9 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 - [SanCreek](https://www.1001freefonts.com/sancreek.font)/[Goudy Bookletter 1911](https://www.1001freefonts.com/goudy-bookletter-1911.font)
 
 ### Example
-![Pic](019_photoshop_wave_effect/liquify.png)
+![Pic](021_font_pairing/font_pairings.png)
+
+---
 
 ## Day 20 - Design Challenge 2018: 
 
@@ -57,7 +59,7 @@ I'm also planning on writing about my learnings on my [blog](http://h4labs.org/c
 
 
 ### Example
-![Pic](019_photoshop_wave_effect/liquify.png)
+![Pic](020_font_pairing/font_pairin.png)
 
 
 ## Day 19 - Design Challenge 2018: Photoshop Wave Effect
